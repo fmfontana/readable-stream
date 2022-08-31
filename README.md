@@ -15,8 +15,6 @@ This package is a mirror of the streams implementations in Node.js 18.0.0.
 
 Full documentation may be found on the [Node.js website](https://nodejs.org/dist/v18.0.0/docs/api/stream.html).
 
-If you want to guarantee a stable streams base, regardless of what version of
-Node you, or the users of your libraries are using, use **readable-stream** _only_ and avoid the _"stream"_ module in Node-core, for background see [this blogpost](http://r.va.gg/2014/06/why-i-dont-use-nodes-core-stream-module.html).
 
 As of version 2.0.0 **readable-stream** uses semantic versioning.
 
